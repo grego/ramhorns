@@ -12,12 +12,12 @@ keywords = ["html", "template", "mustache"]
 categories = ["template-engine"]
 
 [dependencies]
-arrayvec = "0.7.1"
+arrayvec = "0.7.2"
 beef = "0.5"
 fnv = "1.0"
-pulldown-cmark = "0.7"
+pulldown-cmark = "0.8"
 ramhorns-derive = { version = "0.12.0", optional = true }
-ahash = "0.7.4"
+ahash = "0.7.6"
 logos = "0.12.0"
 
 [dev-dependencies]
